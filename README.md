@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ---
 ## Configuration
----
+
 Configuring the bot is pretty self explanatory
 
 ```json
