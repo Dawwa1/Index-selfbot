@@ -3,7 +3,7 @@
 Foxxy is a discord bot that I am making, designed to make have a ton of features while also being minimalistic and easy to use!
 
 ## Installation
----
+
 Download the folder, and install everything in the requirments.txt file
 
 ```bash
