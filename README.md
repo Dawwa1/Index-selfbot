@@ -29,6 +29,7 @@ send_channel: the channel that the bot will send the alert to
 
 ping_OnAlert: whether or not you want the bot to ping @everyone on an alert
 
+---
 
 To start the bot, either double click on main.py or open it with command prompt
 
