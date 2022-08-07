@@ -28,8 +28,10 @@ keywords: the keywords that the bot will look for
 send_channel: the channel that the bot will send the alert to
 
 ping_OnAlert: whether or not you want the bot to ping @everyone on an alert
-
-\n To start the bot, either double click on main.py or open it with command prompt
+__
+__
+__
+To start the bot, either double click on main.py or open it with command prompt
 
 ```bash
 python main.py
