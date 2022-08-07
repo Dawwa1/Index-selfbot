@@ -3,7 +3,7 @@
 Foxxy is a discord bot that I am making, designed to make have a ton of features while also being minimalistic and easy to use!
 
 ## Installation
-
+---
 Download the folder, and install everything in the requirments.txt file
 
 ```bash
@@ -36,6 +36,8 @@ To start the bot, either double click on main.py or open it with command prompt
 ```bash
 python main.py
 ```
+
+---
 
 ## Contributing
 If you want to contribute to this project, be welcome to open a pull request!
