@@ -14,12 +14,17 @@ Configuring the bot is pretty self explanatory
 
 ```json
 {
-    "token":"", (your discord ACCOUNT token)
-    "keywords": ["This Spawn Contains a Wishlisted Servant", "Has triggered a Server spawn"], (the keywords that it looks for)
-    "send_channel":"", (id of the channel you want to send the alerts to)
-    "ping_OnAlert": false (whether or not you want it to ping @everyone on an alert)
+    "token":"",
+    "keywords": ["This Spawn Contains a Wishlisted Servant", "Has triggered a Server spawn"],
+    "send_channel":"",
+    "ping_OnAlert": false
 }
 ```
+
+Token: your discord ACCOUNT token
+keywords: the keywords that the bot will look for
+send_channel: the channel that the bot will send the alert to
+ping_OnAlert: whether or not you want the bot to ping @everyone on an alert
 
 To start the bot, either double click on main.py or open it with command prompt
 
