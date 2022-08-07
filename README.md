@@ -10,6 +10,9 @@ Download the folder, and install everything in the requirments.txt file
 pip install -r requirements.txt
 ```
 
+---
+## Configuration
+---
 Configuring the bot is pretty self explanatory
 
 ```json
