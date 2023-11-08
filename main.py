@@ -31,10 +31,5 @@ async def on_message(message):
                         print("Server spawn message sent")
                 except TypeError:
                     return
-        else:
-            return
-        
-    else:
-        return
 
 bot.run(config['token'])
